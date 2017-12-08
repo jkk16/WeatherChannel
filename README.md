@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+December 7. 2017
 
 ### Student Name:  
-(First and Last Name)
+Jared Knorr 
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+I used AJAX, jquery, JSON, and API to create a ten-day weather forecast. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://jkk16.github.io/WeatherChannel/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned each element has an id associated with a key
+2. I learned how to copy and paste repetitive material to slightly change a function. 
+3. I learned how cold it is in my hometown.
